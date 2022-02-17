@@ -1,5 +1,4 @@
 site_name: MkDocs Documentation Example
-site_url: https://www.zuar.com/path/to/be/determined
 
 theme:
   name: material
